@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-
+Vue.config.devtools = true
 Vue.use(Router)
 
 /* Layout */
